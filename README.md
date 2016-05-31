@@ -1,6 +1,9 @@
-# awesome-XCode-plugins
+# Awesome XCode Plugins
 
-An awesome list of awesome XCode plugins
+An Awesome list of Awesome XCode Plugins
+
+Use [Alcatraz](http://alcatraz.io/) to install 
+<br/>
 
 1. [KSImageNamed](https://github.com/ksuther/KSImageNamed-Xcode)
 ---
