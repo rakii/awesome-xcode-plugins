@@ -9,7 +9,7 @@ Use [Alcatraz](http://alcatraz.io/) to install
 ---
 Xcode plug-in that provides autocomplete for imageNamed: calls.
 <br/><br/>
-![KSImageNamed](https://github.com/sanketfirodiya/awesome-ios-plugins/blob/master/screenshots/KSImageNamed.gif)
+![KSImageNamed](https://github.com/rakii/Awesome-Xcode-Plugins/blob/master/screenshots/KSImageNamed.gif)
 
 <br/>
 
@@ -17,7 +17,7 @@ Xcode plug-in that provides autocomplete for imageNamed: calls.
 ---
 Plugin for Xcode to make working with colors more visual.
 <br/><br/>
-![ColorSenseRainbow](https://github.com/NorthernRealities/ColorSenseRainbow/blob/master/CSR_Demo.png)
+![ColorSenseRainbow](https://github.com/rakii/Awesome-Xcode-Plugins/blob/master/screenshots/ColorSense.png)
 
 <br/>
 
@@ -34,7 +34,7 @@ Xcode plugin that provides auto-completion for NSLocalizedString..
 ---
 Xcode plugin that enables switch cases autocompletion.
 <br/><br/>
-![SCXcodeSwitchExpander](https://github.com/sanketfirodiya/awesome-ios-plugins/blob/master/screenshots/SCXcodeSwitchExpander.gif)
+![SCXcodeSwitchExpander](https://github.com/rakii/Awesome-Xcode-Plugins/blob/master/screenshots/SCXcodeSwitchExpander.gif)
 
 <br/>
 
@@ -42,7 +42,7 @@ Xcode plugin that enables switch cases autocompletion.
 ---
 Xcode plug-in which helps you write documentation comment easier, for both Objective-C and Swift.
 <br/><br/>
-![VVDocumenter](https://github.com/sanketfirodiya/awesome-ios-plugins/blob/master/screenshots/%20VVDocumenter.gif)
+![VVDocumenter](https://github.com/rakii/Awesome-Xcode-Plugins/blob/master/screenshots/%20VVDocumenter.gif)
 
 <br/>
 
@@ -50,7 +50,7 @@ Xcode plug-in which helps you write documentation comment easier, for both Objec
 ---
 An amazing Xcode plugin to align regular code. it can align Xnything in any way you want.
 <br/><br/>
-![XAlign](https://github.com/sanketfirodiya/awesome-ios-plugins/blob/master/screenshots/%20XAlign.gif)
+![XAlign](https://github.com/rakii/Awesome-Xcode-Plugins/blob/master/screenshots/%20XAlign.gif)
 
 <br/>
 
@@ -58,7 +58,7 @@ An amazing Xcode plugin to align regular code. it can align Xnything in any way 
 ---
 Xcode plugin to collect and list the `TODO`,`FIXME`.
 <br/><br/>
-![XToDo](https://github.com/sanketfirodiya/awesome-ios-plugins/blob/master/screenshots/XToDo.png)
+![XToDo](https://github.com/rakii/Awesome-Xcode-Plugins/blob/master/screenshots/XToDo.png)
 
 <br/>
 
@@ -66,7 +66,7 @@ Xcode plugin to collect and list the `TODO`,`FIXME`.
 ---
 Dependency management helper for your CocoaPods, right in Xcode.
 <br/><br/>
-![CocoaPods](https://github.com/sanketfirodiya/awesome-ios-plugins/blob/master/screenshots/Cocoapods.png)
+![CocoaPods](https://github.com/rakii/Awesome-Xcode-Plugins/blob/master/screenshots/Cocoapods.png)
 
 <br/>
 
@@ -74,6 +74,6 @@ Dependency management helper for your CocoaPods, right in Xcode.
 ---
 Plugin for Xcode to make working with strings less "escaped".
 <br/><br/>
-![HOStringSense for Xcode](https://github.com/rakii/awesome-ios-plugins/blob/master/screenshots/HOStringSense.gif)
+![HOStringSense for Xcode](https://github.com/rakii/Awesome-Xcode-Plugins/blob/master/screenshots/HOStringSense.gif)
 
 <br/>
