@@ -18,8 +18,16 @@ Plugin for Xcode to make working with colors more visual.
 
 <br/>
 
+3. [Lin](https://github.com/questbeat/Lin)
+---
+Xcode plugin that provides auto-completion for NSLocalizedString..
+<br/><br/>
+![Lin](https://github.com/questbeat/Lin/blob/master/screenshot.gif)
 
-3. [SCXcodeSwitchExpander](https://github.com/stefanceriu/SCXcodeSwitchExpander)
+<br/>
+
+
+4. [SCXcodeSwitchExpander](https://github.com/stefanceriu/SCXcodeSwitchExpander)
 ---
 Xcode plugin that enables switch cases autocompletion.
 <br/><br/>
@@ -27,7 +35,7 @@ Xcode plugin that enables switch cases autocompletion.
 
 <br/>
 
-4. [VVDocumenter](https://github.com/onevcat/VVDocumenter-Xcode)
+5. [VVDocumenter](https://github.com/onevcat/VVDocumenter-Xcode)
 ---
 Xcode plug-in which helps you write documentation comment easier, for both Objective-C and Swift.
 <br/><br/>
@@ -35,7 +43,7 @@ Xcode plug-in which helps you write documentation comment easier, for both Objec
 
 <br/>
 
-5. [XAlign](https://github.com/qfish/XAlign)
+6. [XAlign](https://github.com/qfish/XAlign)
 ---
 An amazing Xcode plugin to align regular code. it can align Xnything in any way you want.
 <br/><br/>
@@ -43,7 +51,7 @@ An amazing Xcode plugin to align regular code. it can align Xnything in any way 
 
 <br/>
 
-6. [XToDo](https://github.com/trawor/XToDo)
+7. [XToDo](https://github.com/trawor/XToDo)
 ---
 Xcode plugin to collect and list the `TODO`,`FIXME`.
 <br/><br/>
@@ -51,7 +59,7 @@ Xcode plugin to collect and list the `TODO`,`FIXME`.
 
 <br/>
 
-7. [CocoaPods for Xcode](https://github.com/kattrali/cocoapods-xcode-plugin)
+8. [CocoaPods for Xcode](https://github.com/kattrali/cocoapods-xcode-plugin)
 ---
 Dependency management helper for your CocoaPods, right in Xcode.
 <br/><br/>
@@ -59,7 +67,7 @@ Dependency management helper for your CocoaPods, right in Xcode.
 
 <br/>
 
-8. [HOStringSense for Xcode](https://github.com/holtwick/HOStringSense-for-Xcode)
+9. [HOStringSense for Xcode](https://github.com/holtwick/HOStringSense-for-Xcode)
 ---
 Plugin for Xcode to make working with strings less "escaped".
 <br/><br/>
